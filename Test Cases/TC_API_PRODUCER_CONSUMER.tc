@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API_PRODUCER_CONSUMER</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be304326-a8f1-4e4d-ab7f-e39ea77ca8e0</testCaseGuid>
+</TestCaseEntity>
